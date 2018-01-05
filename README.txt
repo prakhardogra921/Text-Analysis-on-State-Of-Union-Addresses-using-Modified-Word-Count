@@ -1,6 +1,4 @@
 Author: Prakhar Dogra
-G Number: G01009586
-CS 657 Assignment 1
 
 The following README gives details about the dataset and the files contained in this folder:
 
